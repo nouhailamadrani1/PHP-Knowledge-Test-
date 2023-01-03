@@ -1,0 +1,69 @@
+[
+    {
+        "question" : "Qu'est ce que c'est que PHP?",
+        "answer_0" : "php est un langage de programmation qui permet de créer ",
+        "answer_1" : "php est un langage de programmation et lancé par Sun Microsystems en 1995.",
+        "answer_2" : "php est un langage informatique permettant de mettre en forme des pages web ",
+        "answer_3" : "php est un langage de scripts généraliste et Open Source ",
+        "right_answer" : "php est un langage de scripts généraliste et Open Source "
+    },
+    {
+        "question" : "Qu'elle est la dernière version stable de PHP?",
+        "answer_0" : "version 8.0.0",
+        "answer_1" : "version 8.2.0",
+        "answer_2" : "version 7.0.2",
+        "answer_3" :"version 7.0.0",
+        "right_answer" : "version 8.0.0"
+    },
+    
+    {
+        "question" : "Quel type de langage PHP ? ",
+        "answer_0" : "script language",
+        "answer_1" : "spécificateurs arithmétique",
+        "answer_2" : "Statique",
+        "answer_3" : "balisage",
+        "right_answer" : "script language"
+       
+    },
+    {
+        "question" : "Qu'elle sont les framework de PHP? ",
+        "answer_0" : "CakePHP Slim Phalcon",
+        "answer_1" : "Laravel Symfony CodeIgniter JUnit ",
+        "answer_2" : "Hadoop Laravel Symfony   ",
+        "answer_3" : "CakePHP Django Pyramid",
+        "right_answer" : "CakePHP Slim Phalcon"
+    },
+    {
+        "question" : "les requêtes les plus utilisées sont :",
+        "answer_0" : "INSERT, SELECT, UPDATE, DELETE, JOIN",
+        "answer_1" : "INSERT, SELECT",
+        "answer_2" : "INSERT, SELECT, UPDATE,DELETE",
+        "answer_3" : " JOIN",
+        "right_answer" : "INSERT, SELECT, UPDATE, DELETE, JOIN"
+    },
+    {
+        "question" : "reset()",
+        "answer_0" : "place le pointeur au début du tableau",
+        "answer_1" : "libère les octets occupés par un tableau",
+        "answer_2" : "sert à vider un tableau",
+        "answer_3" : "n'existe pas en php",
+        "right_answer" : "place le pointeur au début du tableau"
+    },
+    {
+        "question" : "AVG() ",
+        "answer_0" : "Returns the average value.",
+        "answer_1" : "Returns the number of rows.",
+        "answer_2" : "Returns the first  value",
+        "answer_3 " : "Returns the smallest value",
+        "right_answer" : "Returns the average value."
+    },
+    {
+        "question" : "En quoi consiste la surcharge en PHP Orienté Objet ?",
+        "answer_0" : "à redéfinir les méthodes et attributs d'une classe mère",
+        "answer_1" : "à instancier une classe mère",
+        "answer_2" : "à ajouter des méthodes et attributs à une classe fille",
+        "answer_3" : "à hériter des méthodes et attributs d'une classe mère",
+        "right_answer" : "à redéfinir les méthodes et attributs d'une classe mère"
+    }
+
+]
